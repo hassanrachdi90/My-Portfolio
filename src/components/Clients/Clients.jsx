@@ -7,7 +7,7 @@ import { Slide } from 'react-awesome-reveal';
 
 let clients = [
     {
-        name : "John Michel",
+        name : "Amine Aberchane",
         position : "web developer",
         img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
         stars : 3,
@@ -15,7 +15,7 @@ let clients = [
         Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
     },
     {
-        name : "John Michel",
+        name : "Mohcine Rachdi",
         position : "web developer",
         img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
         stars : 4,
@@ -23,7 +23,7 @@ let clients = [
         Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
     },
     {
-        name : "John Michel",
+        name : "Hamza Zouitine",
         position : "web developer",
         img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
         stars : 5,
@@ -31,7 +31,7 @@ let clients = [
         Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
     },
     {
-        name : "John Michel",
+        name : "Omar Zouitine",
         position : "web developer",
         img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
         stars : 5,
