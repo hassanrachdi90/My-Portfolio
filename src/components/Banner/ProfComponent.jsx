@@ -4,7 +4,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 import { GiEarthAmerica } from "react-icons/gi";
 import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
-import "./img.png"
+import "./img.jpg"
 
 const ProfComponent = () => {
   return (
@@ -37,17 +37,17 @@ const ProfComponent = () => {
             <p>Check out my</p>
             <div className="social-icons">
               <span>
-                <a href="/">
+                <a href="https://www.instagram.com/hassanrachdi/">
                   <AiOutlineInstagram />
                 </a>
               </span>
               <span>
-                <a href="/">
+                <a href="https://www.facebook.com/hassanrachdi1990">
                   <GiEarthAmerica />
                 </a>
               </span>
               <span>
-                <a href="/">
+                <a href="https://www.linkedin.com/in/hassan-rachdi-02b04b114/">
                   <FaLinkedinIn />
                 </a>
               </span>
@@ -58,8 +58,8 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="./img.png"
-            alt="profile"
+            src="https://gomycodelearndev.blob.core.windows.net/profiles/91bc3338-41c9-4756-bc77-b959e36dca84-133177340137895919.jpg "
+            alt="profile" width="300" height="300"
           />
         </Profile>
       </Slide>
@@ -159,6 +159,7 @@ const Social = styled.div`
 `;
 const Profile = styled.div`
   img {
+    border-radius: 50%;
     width: 25rem;
     filter: drop-shadow(0px 10px 10px #01be9570);
     transition: transform 400ms ease-in-out;
